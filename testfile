@@ -1,3 +1,4 @@
 testfile
 git clone
 git remote -v
+git pull origin main

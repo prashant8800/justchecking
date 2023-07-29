@@ -2,3 +2,6 @@ testfile
 git clone
 git remote -v
 git pull origin main
+git pull
+git push 
+git fetch
